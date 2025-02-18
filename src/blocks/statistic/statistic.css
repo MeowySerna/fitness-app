@@ -1,0 +1,4 @@
+.statistic{
+    display: grid;
+    grid-column: 1 / span 2;
+}

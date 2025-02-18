@@ -1,0 +1,5 @@
+.schedule__title{
+    grid-column: 1 / span 3;
+    margin: 0;
+    font-weight: 500;
+}

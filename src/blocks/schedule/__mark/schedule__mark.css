@@ -1,0 +1,11 @@
+.schedule__mark{
+    margin: 0;
+    border-left: 1px solid black;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 13px;
+    padding: 5px;
+}
+.schedule__mark:first-child{
+    border: none;
+}

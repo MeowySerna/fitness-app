@@ -1,0 +1,9 @@
+.today__legend {
+  display: grid;
+  grid-template-columns: 3fr repeat(9,1fr);
+  margin-top: 50px;
+  max-width: 842px;
+  width: 100%;
+
+  border-bottom: 1px solid black;
+}

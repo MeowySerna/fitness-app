@@ -1,0 +1,13 @@
+.card__input {
+  background: none;
+  outline: none;
+  border: none;
+  border-left: 1px black solid;
+  padding: 10px 15px;
+  box-sizing: border-box;
+  font-size: 15px;
+  text-align: center;
+}
+.card__input+p{
+    border-left: 1px solid black;
+}

@@ -1,0 +1,12 @@
+.card__add-button{
+    padding: 0;
+    border: none;
+    height: 10px;
+    background: none;
+    background-image: url(../../../images/add-button.png);
+    background-repeat: no-repeat;
+    width: 10px;
+    margin-left: 2px;
+    background-size: contain;
+    cursor: pointer;
+}

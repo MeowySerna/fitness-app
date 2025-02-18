@@ -1,0 +1,7 @@
+.timer__inputs{
+    display: flex;
+    margin-top: 60px;
+    align-self: center;
+    font-size: 50px;
+    font-weight: 300;
+}

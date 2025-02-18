@@ -1,0 +1,11 @@
+.schedule-card__text{
+    margin: 0;
+    align-self: center;
+    text-align: center;
+   
+}
+.schedule-card__text:first-child{
+    padding-left: 10px;
+    text-align: inherit;
+}
+ 

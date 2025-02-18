@@ -1,0 +1,11 @@
+.timer__add-button{
+    border: none;
+    background: none;
+    align-self: center;
+    margin-left: 6px;
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    background-image: url(../../../images/timer_plus.png);
+    cursor: pointer;
+}

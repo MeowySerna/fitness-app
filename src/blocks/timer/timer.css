@@ -1,0 +1,6 @@
+.timer{
+    width: 421px;
+    
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,13 @@
+.schedule-card{
+    display: grid;
+    grid-template-columns: 150px repeat(3,60px) ;
+    width: 331px;
+    padding: 10px 0px;
+    border: 1px black solid;
+    
+    cursor: pointer;
+    transition: .3s background ease-in-out;
+}
+.schedule-card:hover{
+    background: rgba(0, 0, 0, 0.048);
+}

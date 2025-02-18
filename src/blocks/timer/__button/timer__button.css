@@ -1,0 +1,13 @@
+.timer__button{
+    background: none;
+    border: solid black 1px;
+    width: 60px;
+    cursor: pointer;
+    background-color: rgb(204, 204, 204);
+    transition: all .4s  ease-in-out;
+}
+.timer__button:hover{
+    background: none;
+    border-color: rgba(0, 0, 0, 0.51);
+    color: rgba(0, 0, 0, 0.71);
+}

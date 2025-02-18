@@ -1,0 +1,9 @@
+.card__checkbox{
+    background-image: url('../../../images/checkbox.png');
+    background-repeat: no-repeat;
+    width: 20px;
+    background-size: contain;
+    margin-top: 10px;
+    justify-self: center;
+    visibility: hidden;
+}

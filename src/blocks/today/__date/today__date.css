@@ -1,0 +1,8 @@
+.today__date{
+    margin: 0;
+    margin-left: 5px;
+    margin-top: 15px;
+    position: absolute;
+    left: 280px;
+    top: 46px;
+}

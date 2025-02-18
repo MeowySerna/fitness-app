@@ -1,0 +1,10 @@
+.schedule {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 46px;
+  margin-left: 250px;
+  transition: background-color 0.5s ease;
+  position: relative;
+  gap: 10px 25px;
+
+}

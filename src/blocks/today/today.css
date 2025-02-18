@@ -1,0 +1,9 @@
+.today {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: max-content max-content;
+  padding: 46px;
+  margin-left: 250px;
+  position: relative;
+  height: 100vh;
+}

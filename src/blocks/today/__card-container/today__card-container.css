@@ -1,0 +1,5 @@
+.today__card-container {
+  display: flex;
+  flex-direction: column;
+ 
+}

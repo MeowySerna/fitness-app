@@ -1,0 +1,6 @@
+.schedule__legend{
+    display: grid;
+    grid-template-columns: 150px repeat(3,60px) ;
+    width: 331px;
+    border-bottom: 1px black solid;
+}

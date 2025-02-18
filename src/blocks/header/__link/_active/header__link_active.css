@@ -1,0 +1,7 @@
+.header__link_active::after {
+    content: "->";
+    margin-top: 2px;
+    position: absolute;
+    margin-left: 5px;
+  }
+    
